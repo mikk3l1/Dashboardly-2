@@ -1,6 +1,11 @@
 # Dashboardly
 
 A modern, customizable widget dashboard built with **React + Vite + TypeScript**.
+#### [Demo](https://mikk3l1.github.io/Dashboardly-2/) (https://mikk3l1.github.io/Dashboardly-2) 
+
+#
+###
+
 
 ## Features
 
